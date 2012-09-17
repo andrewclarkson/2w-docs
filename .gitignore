@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site/*
 _theme_packages/*
 
@@ -8,3 +9,10 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+=======
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+>>>>>>> d0f76257785e9f382c7272794c21f92766e51ea6
